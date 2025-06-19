@@ -89,8 +89,8 @@ if(!fs.existsSync("config.yaml")) {
     const consolebotendreconnecterrorattempt = lang["consolebotendreconnecterrorattempt"];
     const consolebot = lang["consolebot"];
 
-    console.log('Thank you for using the bot from JodexIndustries');
-    console.log('Aternos Bot 24/7 4.3');
+    console.log('Thank you');
+    console.log('jayuop');
     console.log('\x1b[32m');
     console.log(consolestartmessage, '\x1b[0m');
 

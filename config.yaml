@@ -1,9 +1,9 @@
 #Bot language/Язык ботов (en_US ru_RU uk_UA de_DE)
 language: "en_US"
 #Server IP/Айпи адрес сервера
-ip: "localhost"
+ip: "hxrsmp.aternos.me"
 #Server Port/Порт сервера
-port: 25565
+port: 42954
 #Bot password/Пароль ботов
 password: "123412341234"
 #Delay between connections (in ms)/Задержка между подключениями (в мс)
